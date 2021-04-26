@@ -1,1 +1,1 @@
-[点这调回去](https://github.com/jhw1/qqq/blob/main/README.md)
+[点这跳回去](https://github.com/jhw1/qqq/blob/main/README.md)
